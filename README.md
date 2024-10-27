@@ -13,7 +13,7 @@
                 <img src="https://skillicons.dev/icons?i=powershell,discord,github,gitlab,vscode,idea,pycharm,eclipse,anaconda,blender,godot,unity,visualstudio,stackoverflow&theme=dark&perline=4" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=c,cpp,cmake,css,html,rust,java,js,py,scala,latex&theme=dark&perline=4" />
+                <img src="https://skillicons.dev/icons?i=c,cpp,cs,cmake,css,html,rust,java,js,py,scala,latex&theme=dark&perline=4" />
             </td>
             <td align="center">
                 <img src="https://skillicons.dev/icons?i=linux,debian,windows,arduino,raspberrypi&theme=dark&perline=4" />
