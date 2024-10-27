@@ -18,3 +18,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Julz124&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Julz124/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz124&theme=midnight-purple&layout=compact)](https://github.com/Julz124/)
+
+## Collaborting Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eFabi11&repo=Minesweeper-Web-Technologien)](https://github.com/eFabi11/Minesweeper-Web-Technologien)
