@@ -1,8 +1,16 @@
+---
+
+Hey there, I'm using GitHub
 
 
 ## 🚀 Skills & Tools
 ---
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,css,html,rust,java,js,mysql,linux,debian,windows,matlab,powershell,py,scala,latex,discord,github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow)](https://skillicons.dev)
+[![My Skills](
+https://skillicons.dev/icons?i=
+c,cpp,cmake,css,html,rust,java,js,linux,debian,windows,matlab,powershell,py,scala,latex,discord,
+github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow
+&theme=light&perline=6
+)](https://skillicons.dev)
 
 ---
 
