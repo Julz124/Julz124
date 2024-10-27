@@ -3,12 +3,14 @@
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Skills, Tools & Systems
 ---
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cmake,css,html,rust,java,js,linux,debian,windows,matlab,powershell,py,scala,latex,discord,github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cmake,css,html,rust,java,js,py,scala,latex&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=powershell,discord,github,gitlab,vscode,idea,pycharm,eclipse,anaconda,blender,godot,unity,visualstudio,stackoverflow&theme=dark&perline=12" />
+        <img src="https://skillicons.dev/icons?i=linux,debian,windows,arduino,raspberrypi&theme=dark&perline=12" />
   </a>
 </p>
 
