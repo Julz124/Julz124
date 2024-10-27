@@ -1,7 +1,3 @@
----
-
-Hey there, I'm using GitHub
-
 
 ## 🚀 Skills & Tools
 ---
@@ -11,13 +7,6 @@ Hey there, I'm using GitHub
         <img src="https://skillicons.dev/icons?i=c,cpp,cmake,css,html,rust,java,js,linux,debian,windows,matlab,powershell,py,scala,latex,discord,github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow&theme=light&perline=6" />
   </a>
 </p>
-
-[![My Skills](
-https://skillicons.dev/icons?i=
-c,cpp,cmake,css,html,rust,java,js,linux,debian,windows,matlab,powershell,py,scala,latex,discord,
-github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow
-&theme=light&perline=6
-)](https://skillicons.dev)
 
 ---
 
