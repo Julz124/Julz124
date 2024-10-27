@@ -16,5 +16,5 @@
 
 ## 📈 Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Julz124&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Julz124/)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz124&theme=midnight-purple&layout=compact)](https://github.com/Julz124/)
-|:--|:--|
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Julz124&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Julz124/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julz124&theme=midnight-purple&layout=compact)](https://github.com/Julz124/)
