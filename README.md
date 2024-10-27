@@ -1,5 +1,5 @@
 
-## 👋 Hallo, ich bin Julian
+## 👋 Hello, I'm Julian
 
 ---
 
