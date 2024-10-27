@@ -8,10 +8,7 @@ Hey there, I'm using GitHub
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=
-            c,cpp,cmake,css,html,rust,java,js,linux,debian,windows,matlab,powershell,py,scala,latex,discord,
-            github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow
-            &theme=light&perline=6" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cmake,css,html,rust,java,js,linux,debian,windows,matlab,powershell,py,scala,latex,discord,github,gitlab,vscode,idea,pycharm,eclipse,anaconda,arduino,blender,godot,unity,visualstudio,raspberrypi,stackoverflow&theme=light&perline=6" />
   </a>
 </p>
 
