@@ -36,7 +36,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eFabi11&repo=Minesweeper-Web-Technologien)](https://github.com/eFabi11/Minesweeper-Web-Technologien)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonaboecker&repo=ubiquitous-computing)](https://github.com/jonaboecker/ubiquitous-computing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonaboecker&repo=turingmaschine)](https://github.com/jonaboecker/turingmaschine)
 
 ---
 
